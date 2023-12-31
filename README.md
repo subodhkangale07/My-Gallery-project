@@ -1,4 +1,4 @@
-#subodhkangale07
+subodhkangale07
 
 A simple web gallery project created using HTML and CSS.
 
